@@ -4,7 +4,7 @@
 All conference participants, including sponsors must follow conference's [Code of Conduct](https://devternity.com/code_of_conduct.html).
 
 ### Direct messages
-It's OK to send relevant, personalised direct messages to conference visitors, if you had a prior agreement from a visitor at the booth. No mass messaging allowed.
+It's OK to send relevant, personalised direct messages to conference visitors, if you had a prior agreement from with the visitor at the booth. No mass messaging allowed.
 
 ### Public communication
 Sponsored announcements, activities must be posted in `#devternity-sponsors` channel.
